@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:37.481524
+#+DATE: 2015-08-30 20:13:38.666509
 #+TITLE: 佛為娑伽羅龍王所說大乘經
 #+PROPERTY: CBETA_ID T15n0601
 #+PROPERTY: ID KR6i0235
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 601
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0235_T_000-0159b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0235_T_001-0159b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.601¶
-
- 《佛為娑伽羅龍王所說大乘經》¶
+No. 601¶
+《佛為娑伽羅龍王所說大乘經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
